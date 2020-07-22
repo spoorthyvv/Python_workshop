@@ -1,3 +1,3 @@
 a = int(input("Enter the first number"))
 b = int(input("Enter the second  number"))
-return max(a,b)
+print(max(a,b))
